@@ -106,8 +106,6 @@ coming soon
 
 </div>
 
-> ⚙️ *The snake animation needs a one-time GitHub Action setup — see `snake.yml` provided alongside this file, plus the setup steps below.*
-
 <br/>
 
 <div align="center">
