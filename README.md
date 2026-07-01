@@ -15,10 +15,10 @@
 <a href="mailto:dharsankumar0216@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
-<a href="https://dharsankumar-rk.github.io" target="_blank">
+<a href="https://dharsankumar-rk-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
 </a>
-<a href="#" target="_blank">
+<a href="https://drive.google.com/file/d/1ouWcRfjpM0qm1mJfQC2WcT7YnPiLwdgt/view?usp=drivesdk" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-8E2DE2?style=for-the-badge&logo=googledocs&logoColor=white" alt="resume"/>
 </a>
 
