@@ -26,7 +26,7 @@
 
 <br/>
 
-## 🚀 About Me
+## 🧠 Who I Am
 
 ```javascript
 const dharsankumar = {
@@ -42,7 +42,7 @@ const dharsankumar = {
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🧰 My Toolbox
 
 <div align="center">
 
@@ -52,7 +52,7 @@ const dharsankumar = {
 
 <br/>
 
-## 🌱 Currently Learning
+## 🧭 Where I'm Headed Next
 
 <div align="center">
 
@@ -65,7 +65,7 @@ const dharsankumar = {
 
 <br/>
 
-## 🎯 Featured Project
+## 🚀 Project I'm Proud Of
 
 <div align="center">
 
@@ -75,7 +75,7 @@ coming soon
 
 <br/>
  
-## 📊 GitHub Stats
+## 🔢 Stats at a Glance
 
 <div align="center">
 
@@ -85,7 +85,7 @@ coming soon
 
 <br/>
 
-## 📈 Contribution Activity
+## 📈 📆 How I Show Up
 
 <div align="center">
 
