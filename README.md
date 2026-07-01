@@ -74,15 +74,12 @@ coming soon
 </div>
 
 <br/>
-
+ 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharsankumar-rk&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF4DDA&icon_color=8E2DE2&text_color=F5E1FF&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharsankumar-rk&theme=dracula&hide_border=true&background=0D1117&stroke=FF4DDA&ring=8E2DE2&fire=FF4DDA&currStreakLabel=FF4DDA" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharsankumar-rk&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF4DDA&text_color=F5E1FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharsankumar-rk&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=8E2DE2&fire=A855F7&currStreakLabel=A855F7" height="165"/>
 
 </div>
 
