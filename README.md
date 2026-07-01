@@ -35,7 +35,7 @@ const dharsankumar = {
   location: "Sankari,Salem dt",
   focus: [" Gen Ai ", " Crypto Technology", "LLM Integrations"],
   currentProject: "AI-Powered Study Companion 📚🤖",
-  motto: "Don't judge a book by its cover.",
+  motto: "Don't judge a book by its cover."
  
 };
 ```
